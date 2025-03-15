@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "115776664280",
+    "project_id": "biodigester-cd495",
+    "storage_bucket": "biodigester-cd495.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115776664280:android:124aec9fc5c93cdbc21dad",
+        "android_client_info": {
+          "package_name": "com.example.my_flutter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrbrRFf-lJTsolJv88WlG0Kna_0PvE9Mw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115776664280:android:d142e80eb55d3aa4c21dad",
+        "android_client_info": {
+          "package_name": "com.spins.biodigester"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrbrRFf-lJTsolJv88WlG0Kna_0PvE9Mw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
